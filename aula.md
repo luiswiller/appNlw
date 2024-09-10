@@ -8,10 +8,10 @@ Maneira de dar instrução ao computador.
 
 - [x] Comentários
 - [x] Declaração de variáveis (const, let)
-- Operadores (atribuição, concatenação, matemáticos, lógicos)
-- Tipos de dados (string, number, boolean)
-- Estrutura de dados (function, object, array)
-- Controle de fluxo (if/else)
+- [x] Operadores (atribuição, concatenação, matemáticos, lógicos)
+- [x] Tipos de dados (string, number, boolean)
+- [x] Estrutura de dados (function, object, array)
+- [x] Controle de fluxo (if/else)
 - Estrutura de repetição (for, while)
 
 # Fases da resolução de um problema
@@ -33,8 +33,9 @@ Maneira de dar instrução ao computador.
 
 ## Operadores
 
-- [x] Operadores de atribuição de valor
-- [x] Operadores de concatenação
+- [x] Operadores de atribuição de valor =
+- [x] Operadores de concatenação +
+- [x] Operadores de comparação == != <= >= < >
 
 ## Estrutura de dados
 
@@ -61,6 +62,7 @@ Maneira de dar instrução ao computador.
 # Condicionais
 
 - [x] switch
+- [x] if/else
 
 ## Módulos de Node.js
 
