@@ -22,14 +22,34 @@ Maneira de dar instrução ao computador.
 
 ## Escopo e variáveis
 
-Variáveis globais e locais
-Constantes
+- [x] Variáveis globais e locais
+- [x] Constantes
 
 ## Tipos de dados
 
-Strings (textos): "" '' ``
-Number: 6 6.4
-Function
+- [x] Strings (textos): "" '' ``
+- [x] Number: 6 6.4
+- [x] Boolean: true, false
 
 ## Operadores
-Operadores de atribuição de valor
+
+- [x] Operadores de atribuição de valor
+- [x] Operadores de concatenação
+
+## Estrutura de dados
+
+### Arrays
+
+- [x] Uma lista que contém tipos de dado
+
+### Objetos
+
+- [x] Atributos e mátodos
+- [x] Criação e maniplação de objetos
+- [x] Acesso a propriedades de objetos
+
+### Functions
+
+- [x] Criar, passar argumento
+- [x] Executar
+- [x] arrow function / named function
