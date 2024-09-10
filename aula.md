@@ -57,3 +57,7 @@ Maneira de dar instrução ao computador.
 # Estrutura de repetição
 
 - [x] While
+
+# Condicionais
+
+- [x] switch
