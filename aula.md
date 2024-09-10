@@ -53,3 +53,7 @@ Maneira de dar instrução ao computador.
 - [x] Criar, passar argumento
 - [x] Executar
 - [x] arrow function / named function
+
+# Estrutura de repetição
+
+- [x] While
