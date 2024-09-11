@@ -36,13 +36,14 @@ Maneira de dar instrução ao computador.
 - [x] Operadores de atribuição de valor =
 - [x] Operadores de concatenação +
 - [x] Operadores de comparação == != <= >= < >
+- [x] Spread operator: ...
 
 ## Estrutura de dados
 
 ### Arrays
 
 - [x] Uma lista que contém tipos de dado
-- [x] Métodos de array: push, find, forEach
+- [x] Métodos de array: push, [find, forEach, filter]: HOF (Higher Order Functions)
 
 ### Objetos
 
